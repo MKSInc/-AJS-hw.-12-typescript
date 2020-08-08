@@ -1,3 +1,5 @@
+[![Build status](https://ci.appveyor.com/api/projects/status/5lyh9ivpmlm059ti?svg=true)](https://ci.appveyor.com/project/MKSInc/ajs-hw-12-typescript)
+
 # 12. Домашнее задание к лекции «TypeScript»
 
 **Важно**: все задачи допустимо выполнять в одном GitHub репозитории.
